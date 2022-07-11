@@ -17,8 +17,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Afonso-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Afonso-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Afonso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </div>
-   ##
+</div>
+  
+##
  
 <div> 
    <a href="https://www.youtube.com/channel/UCNzUOZ7z8Eg3jYvqvS96ehA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
