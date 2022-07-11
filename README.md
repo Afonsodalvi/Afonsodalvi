@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Omnes Blockchain e Web3Club
-- 🌱 I’m learning I’m learning about Web3 always
+- 🌱 I’m learning about Web3 always
 
 <div align="center">
   <a href="https://github.com/Afonsodalvi">
