@@ -1,4 +1,4 @@
-### Hello guys. I am Lawyer and Programmer. An enthusiastic and eternal student of Web3.👋
+### Hello guys. I am DevRel and Programmer. An enthusiastic and eternal student of Web3.👋
 
 
 Here are some ideas to get you started:
